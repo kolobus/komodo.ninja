@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/rocknroll
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://komodo.ninja
+  * I am rocknroll (https://keybase.io/rocknroll) on keybase.
+  * I have a public key with fingerprint 5CA7 67D7 F375 6CF2 B0B3  2D44 13C2 EE6D C94D 00FE
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01014c64cee44c346fd1dd0ee58058c7846e093492f473440d7629d6bfcffcb262b20a",
+            "fingerprint": "5ca767d7f3756cf2b0b32d4413c2ee6dc94d00fe",
+            "host": "keybase.io",
+            "key_id": "13c2ee6dc94d00fe",
+            "kid": "01014c64cee44c346fd1dd0ee58058c7846e093492f473440d7629d6bfcffcb262b20a",
+            "uid": "7a0d1af8bb2f3957278b23b14e868b19",
+            "username": "rocknroll"
+        },
+        "service": {
+            "hostname": "komodo.ninja",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1482913879,
+    "expire_in": 157680000,
+    "prev": "52c5ab91a79c44723d11fdf6eb4c0cb528d4c671e481c4bf3accb4050f6e54b3",
+    "seqno": 6,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.61
+Comment: https://keybase.io/crypto
+
+yMImAnicrVJbSBVRFL3XNPKaImqGvZmPnmrzOPMkRUqzAhUisKK8znmMjldnrnPH
+V6ZRIEVYJIIZGWSUFWL2sMwPpVKJsqKCIiiI0EzIwjLyq2hG7K/Pzs/h7LPW2msv
+9lD0PI/PeyoiOtgR/rHDO3L/dIVnN6rOr6WgiWsopZYKkNmLlGISsv0BHVMKRTM0
+A5AAECEAIA4IGmYwpgnhJZqXkCgBgdAyB2RWAyIHAI1FgZWxADWkaQiyAgtZWqWS
+KU03iogVtHTDdmR5pIqCiEWNE3kBaSykIcdiABgOsYQIGMkA07RGHGKxGXIZjjmo
+hkiqbjo15+GftfcP/H/2XTErJ6o0ZlRNgpDVOJkXWVGCLAcZQCRBgozsAkPEMtQy
+4qAtEwUMyywtpeqSKadcqSPiJuuOMgcJmGUmNlMN3ShxuwQt0zaRWer8FNt2UHGJ
+dk3QRVYR6J/T8EPdwE6ODqGSWCHdNCiFcZDI1l1RBkiszHCSKCdTpDqoW8Svuwhe
+FCTaOW4bUummzyJehTKjijICQGQ5zDAa1gQCAaIR5FkJO9mJDAESgwDUOBUhCGie
+diA8gBzlTlVumJQiODbVIkcypBcZql1hEaruwb194R6vzzM/IszdL48vMvbv1smF
+CzyDW75MXsgMKta78jTY9Muasteq3xuep+x4NWzqnsYPCZc61dbznWczNua1Fkf9
+/ET1POuNL24+ruT62p62K2HnVrTE5iYmWE9+LDy6c/pueFxfw+jFrP1d+ek5aQNH
+rtzpu5XXvT5pipzcbryIH89M8Xr76rYOZb/0r4masd9verxufDRxbLOZ3bM3PnDt
+6sC3Q8PdwoQSb2zTjjWrcRHKmHl72ZLfb7LDJyqSyZmMwy0HhxoXl1defw1X9S7K
+nXy0PLW3PONAmdbZn36zJrIgPWlXCQrLWjpeuHoPE/M2ZmQmqcAQN9QP9k+fyK6/
+/PXhjazhz02+tpVd7Tn9veNNVX8ARpQ6gA==
+=2Tta
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rocknroll
+
+==================================================================
